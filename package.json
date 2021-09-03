@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^13.2.1",
     "axios": "^0.21.1",
     "customize-cra": "^1.0.0-alpha.0",
-    "i18next": "^20.3.5",
+    "i18next": "^20.6.0",
     "i18next-browser-languagedetector": "^6.1.2",
     "less": "^3.11.1",
     "less-loader": "^6.0.0",
