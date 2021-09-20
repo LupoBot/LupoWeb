@@ -14,7 +14,7 @@
     "less-loader": "^6.0.0",
     "react": "^17.0.2",
     "react-app-rewired": "^2.1.6",
-    "react-cookie-consent": "^6.2.4",
+    "react-cookie-consent": "^6.4.0",
     "react-dom": "^17.0.2",
     "react-flagkit": "^2.0.4",
     "react-i18next": "^11.11.4",
